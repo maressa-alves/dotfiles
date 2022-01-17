@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maressa.msoa@gmail.com
+	name = Maressa Alves
